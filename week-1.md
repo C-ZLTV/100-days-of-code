@@ -14,11 +14,21 @@ I'm currently using the [30 Days of JS repository](https://github.com/Asabeneh/3
 
 ### Day 2: January 31, 2023 (TUESDAY)
 
-##### TITLE
+##### DATES AND WINDOW METHODS
 
-**Today's Progress**:
+**Today's Progress**: Completed a massive amount of exercises on Dates, Window Methods, Comparisons and Logical Operators.
 
-**Thoughts**:
+**Thoughts**: Strengthened my knowledge on some tricky JS comparisons that I probably put too much effort into
+studying. I'm still glad I did, since I feel like I understand things better and quicker this way.
+
+I finally properly understood dates. The new Date() vs Date.now() was confusing to me up until today but with some practice I now know how they work and how they are different.
+
+Also lessons of the day:
+
+- Use const unless you have a good reason to use let.
+- Use === unless you have a very good reason to use ==.
+
+[This](https://dorey.github.io/JavaScript-Equality-Table/) is an extremely detailed comparison of data types that I will go back to from time to time.
 
 **Link(s) to work**: []()
 
