@@ -1,4 +1,4 @@
-# WEEK 1- Logs
+# WEEK 1 - Logs
 
 ### Day 1: January 30, 2023 (MONDAY)
 
@@ -6,7 +6,11 @@
 
 **Today's Progress**: Did plenty of Math Object and String Methods exercises.
 
-**Thoughts:** I gained new prospective on some string methods. They are not that difficult to understand or to use in simple code but I guess the hard part comes from trying to combine them together in an efficient and actually meaningful way. I will keep practising until I will gain a deeper understanding on how things work since util now I have been focusing on reading JS guides and what not.
+**Thoughts:** I gained new prospective on some string methods. They are not that difficult to understand or to use in simple code but I guess the hard part comes from trying to combine them together in an efficient and actually meaningful way.
+
+I will keep practising until I will gain a deeper understanding on how things work since util now I have been focusing on reading JS guides and what not.
+
+I'm currently using the [30 Days of JS repository](https://github.com/Asabeneh/30-Days-Of-JavaScript) for the exercises.
 
 ### Day 2: January 31, 2023 (TUESDAY)
 

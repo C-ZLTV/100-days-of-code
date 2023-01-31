@@ -8,7 +8,7 @@ After all, coding has always been my true but hidden passion. My strong motivati
 
 ## Contents
 
-Here will be stored my daily log, divided by weeks for better readability. At the end of the challenge there should be at least 14 weeks of entries.
+Here will be stored my daily log, subdivided in weeks for better readability. At the end of the challenge there should be at least 14 weeks of entries.
 
 - [1ST WEEK](week-1.md)
 - [2ND WEEK]()
