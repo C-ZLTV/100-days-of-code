@@ -16,12 +16,12 @@ I'm currently using the [30 Days of JS repository](https://github.com/Asabeneh/3
 
 ##### DATES AND WINDOW METHODS
 
-**Today's Progress**: Completed a massive amount of exercises on Dates, Window Methods, Comparisons and Logical Operators.
+**Today's Progress**: Completed a massive amount of exercises on Dates, Window Methods, Comparisons, and Logical Operators.
 
 **Thoughts**: Strengthened my knowledge on some tricky JS comparisons that I probably put too much effort into
-studying. I'm still glad I did, since I feel like I understand things better and quicker this way.
+studying. I'm still glad I did since I feel like I understand things better and quicker this way.
 
-I finally properly understood dates. The new Date() vs Date.now() was confusing to me up until today but with some practice I now know how they work and how they are different.
+I finally properly understood dates. The new Date() vs Date.now() was confusing to me up until today but with some practice, I now know how they work and how they are different.
 
 Also lessons of the day:
 
