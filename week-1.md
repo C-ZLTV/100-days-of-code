@@ -4,9 +4,9 @@
 
 ##### JS: SOME METHODS
 
-**Today's Progress**: Did plenty of Math Object and String Methods exercises.
+**TODAY'S PROGRESS**: Did plenty of Math Object and String Methods exercises.
 
-**Thoughts:** I gained new prospective on some string methods. They are not that difficult to understand or to use in simple code but I guess the hard part comes from trying to combine them together in an efficient and actually meaningful way.
+**THOUGHTS:** I gained new prospective on some string methods. They are not that difficult to understand or to use in simple code but I guess the hard part comes from trying to combine them together in an efficient and actually meaningful way.
 
 I will keep practising until I will gain a deeper understanding on how things work since util now I have been focusing on reading JS guides and what not.
 
@@ -16,9 +16,9 @@ I'm currently using the [30 Days of JS repository](https://github.com/Asabeneh/3
 
 ##### DATES AND WINDOW METHODS
 
-**Today's Progress**: Completed a massive amount of exercises on Dates, Window Methods, Comparisons, and Logical Operators.
+**TODAY'S PROGRESS**: Completed a massive amount of exercises on Dates, Window Methods, Comparisons, and Logical Operators.
 
-**Thoughts**: Strengthened my knowledge on some tricky JS comparisons that I probably put too much effort into
+**THOUGHTS**: Strengthened my knowledge on some tricky JS comparisons that I probably put too much effort into
 studying. I'm still glad I did since I feel like I understand things better and quicker this way.
 
 I finally properly understood dates. The new Date() vs Date.now() was confusing to me up until today but with some practice, I now know how they work and how they are different.
@@ -34,37 +34,33 @@ Also lessons of the day:
 
 ##### CONDITIONALS AND SOME ARRAY STUFF
 
-**Today's Progress**: Coded several programs today, mostly using if statements and logical operators.
+**TODAY'S PROGRESS**: Coded several programs today, mostly using if statements and logical operators.
 
 The most intricate one implied telling the number of days in a month (provided by prompt), considering the leap year.
 
 Also worked with string methods and some array methods.
 
-**Thoughts**: Finally got to use the toUpperCase() and toLowerCase() methods in something useful and fun. The days-in a-month program was the last conditionals-related thing that I've done today and it was challenging but not hard.
+**THOUGHTS**: Finally got to use the toUpperCase() and toLowerCase() methods in something useful and fun. The days-in a-month program was the last conditionals-related thing that I've done today and it was challenging but not hard.
 
 I love the way [30 Days Of JS repo](https://dorey.github.io/JavaScript-Equality-Table/) takes things slowly and then escalates without overwhelming me at all. I've felt intimidated by code exercises with some previous guides I've tried but now I feel excited whenever I get to complete something on my own.
 
-**Link(s) to work**: []()
-
 ### Day 4: February 02, 2023 (THURSDAY)
 
-##### TITLE
+##### ARRAY METHODS
 
-**Today's Progress**:
+**TODAY'S PROGRESS**: Worked with array methods.
 
-**Thoughts**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: Today was more laid back than other days since I only coded for one hour. I still made some progress in my learning process! It was interesting but I'm looking forward to coding some more advanced stuff with array methods tomorrow.
 
 ### Day 5: February 03, 2023 (FRIDAY)
 
-##### TITLE
+##### MORE ADVANCES ARRAY METHODS AND SOME LOOPS
 
-**Today's Progress**:
+**Today's Progress**: Today I worked with more advanced array methods and got to implement them in interesting ways, like finding the median (had to look up the formula for that lol), the average, the range, etc. Also started doing some basic loops.
 
-**Thoughts**:
+**Thoughts**: Given the things that I've done up until now arrays and array methods seem pretty straightforward to me. I feel like they are more about knowing that certain methods exist and how to implement them.
 
-**Link(s) to work**: []()
+While loops are extremely logical and I'm not having an easy time learning and practicing them.
 
 ### Day 6: February 04, 2023 (SATURDAY)
 
