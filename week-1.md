@@ -64,11 +64,13 @@ While loops are extremely logical and I'm not having an easy time learning and p
 
 ### Day 6: February 04, 2023 (SATURDAY)
 
-##### TITLE
+##### LOOPS
 
-**Today's Progress**:
+**Today's Progress**: I think I understood mid-basic loop functionality better.
 
-**Thoughts**:
+**Thoughts**: I didn't do a lot since it took me so long to complete my loops exercises lol. It hasn't been a particularly inspiring day because I'm kinda stuck on more advanced loop stuff that I'm having the most difficult time with.
+
+I hope that tomorrow, with some googling and motivation I can get some things done and properly understand them.
 
 **Link(s) to work**: []()
 
