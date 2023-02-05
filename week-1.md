@@ -72,14 +72,21 @@ While loops are extremely logical and I'm not having an easy time learning and p
 
 I hope that tomorrow, with some googling and motivation I can get some things done and properly understand them.
 
-**Link(s) to work**: []()
-
 ### Day 7: February 05, 2023 (SUNDAY)
 
-##### TITLE
+##### LOOPS
 
-**Today's Progress**:
+**Today's Progress**: Today was fruitful. I completed some loop exercises that I was unsure of yesterday:
 
-**Thoughts**:
+- generated a six-character random id
+- generates a random hexadecimal number
+- generates a random RBG color number
+- created an array of arrays (modified base array) with for...of.
 
-**Link(s) to work**: []()
+**Thoughts**: I enjoyed today's practice. Felt kind of lost yesterday but with some renewed willpower I managed to complete some exercises.
+
+I googled a lot and tried so many things to make the code, but it was all worth it.
+
+The first week of 100 Days of Code just went by.
+
+I feel empowered.
