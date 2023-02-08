@@ -20,10 +20,14 @@ I think my understanding of loops and my capacity to work with them unblocked, s
 
 ### Day 10: February 08, 2023 (WEDNESDAY)
 
-##### TITLE
+##### FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Worked with all types of function syntax: function declaration, function expressions and arrow functions.
 
-**THOUGHTS**:
+Also combined functions with loops to create various results like modified arrays and sums with specific parameters.
+
+**THOUGHTS**: There were some things that I needed to look up and follow examples in order to understand the process but once I did things were much more clear.
+
+I imagine there is no need and it's quite impossible to know or remember everything off the top of my head, especially now.
 
 **Link(s) to work**: []()
