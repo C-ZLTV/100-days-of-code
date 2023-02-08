@@ -16,6 +16,10 @@ I think my understanding of loops and my capacity to work with them unblocked, s
 
 ### Day 9: February 07, 2023 (TUESDAY)
 
+##### BREAK DAY
+
+### Day 10: February 08, 2023 (WEDNESDAY)
+
 ##### TITLE
 
 **TODAY'S PROGRESS**:
