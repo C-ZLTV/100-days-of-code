@@ -65,20 +65,30 @@ I'm grateful of the progress I made today and can't for to finish up with functi
 
 ### Day 13: February 11, 2023 (SATURDAY)
 
-##### FUNCTIONS
+##### OBJECTS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Mostly practiced getting keys and values from deeply nested objects.
 
-**THOUGHTS**:
+**THOUGHTS**: Some things seem counter intuitive but nested objects are no joke.
 
 **Link(s) to work**: []()
 
 ### Day 14: February 12, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### OBJECTS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Created loops and object methods to get specific values from nested object. For example:
 
-**THOUGHTS**:
+- Find the most skilled user in Users Object based on a nested array of skills.
 
-**Link(s) to work**: []()
+- Find and count logged in users and those who have more than n points
+
+- Find MERN stack developers from an Users Object based on a skills array;
+
+- Add myself as an user inside the User Object without directly modifying the Object.
+
+**THOUGHTS**: Week two of daily coding is officially over.
+
+I feel so much more confident now compared to two weeks ago.
+
+Even if so little time has passed, I made more progress in terms of coding than I did in the last few months.
