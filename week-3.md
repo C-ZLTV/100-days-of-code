@@ -1,16 +1,24 @@
 ### Day 15: February 13, 2023 (MONDAY)
 
-##### FUNCTIONS
+##### OBJECTS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Today was thrilling! I got into the nitty gritty of working with objects in JS. Created multiple methods, some of the highlights:
 
-**THOUGHTS**:
+- totalIncome, totalExpense, accountInfo, addIncome, addExpense and accountBalance methods for a personAccount Object
 
-**Link(s) to work**: []()
+- signUp function that adds a new user object to an existing array of users (with randomized id and date-time of sign up)
+
+- averageRating of product in products array
+
+**THOUGHTS**: Today I got through my exercises fairly quickly but still feel slow overall.
+
+I wish I could get things done faster but at the same time, I understand that being superficial in these first stages of learning won't help me in the long run.
+
+What motivates me most is seeing how much progress I made compared to so little ago.
 
 ### Day 16: February 14, 2023 (TUESDAY)
 
-##### FUNCTIONS
+##### HIGHER ORDER FUNCTIONS
 
 **TODAY'S PROGRESS**:
 
