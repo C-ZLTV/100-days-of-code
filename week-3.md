@@ -20,19 +20,25 @@ What motivates me most is seeing how much progress I made compared to so little 
 
 ##### HIGHER ORDER FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Finally got to practice higher order functions and understood what a callback function is.
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+Mostly worked with forEach, map, filter, reduce, find, every, some, and sort.
 
 ### Day 17: February 15, 2023 (WEDNESDAY)
 
-##### FUNCTIONS
+##### HIGHER ORDER FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Worked with higher order functions again and it was really challenging. I managed to complete some practice exercises:
 
-**THOUGHTS**:
+- Find total price from an array of products objects.
+
+- Function that categorizes array of country Object by name, capital and population.
+
+- Function that returns an array of objects with all the first letters and the number of times they appear in the array.
+
+- Find the most used letter
+
+**THOUGHTS**: Today I got really stuck. I am suppose to find the most spoken languages form an array of objects. I think I know how to do it but I still have no idea how to code it. Hopefully tomorrow I will get this done.
 
 **Link(s) to work**: []()
 
