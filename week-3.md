@@ -40,37 +40,29 @@ Mostly worked with forEach, map, filter, reduce, find, every, some, and sort.
 
 **THOUGHTS**: Today I got really stuck. I am suppose to find the most spoken languages form an array of objects. I think I know how to do it but I still have no idea how to code it. Hopefully tomorrow I will get this done.
 
-**Link(s) to work**: []()
-
 ### Day 18: February 16, 2023 (THURSDAY)
 
-##### FUNCTIONS
+##### HIGHER ORDER FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Practiced reduce() and other higher order functions all day long but still didn’t get to solve the problem I’m stuck on.
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: Today was kind of exhausting. Taking a break until tomorrow.
 
 ### Day 19: February 17, 2023 (FRIDAY)
 
-##### FUNCTIONS
+##### HIGHER ORDER FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Obsessively tried to solve the problem that I’ve been stuck on for the last 2 days. Got to a good enough point to call it a day.
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: JavaScript made me sob for the first time. I’m marking the date lol
 
 ### Day 20: February 18, 2023 (SATURDAY)
 
-##### FUNCTIONS
+##### Sets and Maps
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Understood how set and maps work and the differences between sets/arrays and maps/objects
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: Today felt like I needed a bit of a break, so decided to take it easy.
 
 ### Day 21: February 19, 2023 (SUNDAY)
 
