@@ -58,7 +58,7 @@ Mostly worked with forEach, map, filter, reduce, find, every, some, and sort.
 
 ### Day 20: February 18, 2023 (SATURDAY)
 
-##### Sets and Maps
+##### SETS AND MAPS
 
 **TODAY'S PROGRESS**: Understood how set and maps work and the differences between sets/arrays and maps/objects
 
@@ -66,7 +66,7 @@ Mostly worked with forEach, map, filter, reduce, find, every, some, and sort.
 
 ### Day 21: February 19, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### MAPS AND SETS
 
 **TODAY'S PROGRESS**: Practiced advanced use of maps and sets. Started practicing array and object destructuring. It’s an interesting concept so far.
 

@@ -1,6 +1,6 @@
 ### Day 22: February 20, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### DESTRUCTURING
 
 **TODAY'S PROGRESS**: Practiced more destructuring. Started working with RegEX
 
@@ -8,13 +8,13 @@
 
 ### Day 23: February 21, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### DAY OFF
 
 **TODAY'S PROGRESS**: Today I had my first day off since the beginning of the challenge. Didn’t do much except for reading One Piece, napping and cycling but I needed this.
 
 ### Day 24: February 22, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### REGEX
 
 **TODAY'S PROGRESS**: Completed all the RegEx exercises, including the advanced level. Discovered the existence of other console methods and gonna practice them tomorrow.
 
