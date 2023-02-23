@@ -68,8 +68,6 @@ Mostly worked with forEach, map, filter, reduce, find, every, some, and sort.
 
 ##### FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Practiced advanced use of maps and sets. Started practicing array and object destructuring. It’s an interesting concept so far.
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: Week 3 of daily coding is officially over. I couldn’t feel more grateful and fulfilled.
