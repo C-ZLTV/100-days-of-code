@@ -22,9 +22,9 @@
 
 ##### FUNCTIONS
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Practiced console object methods. Worked with console.warn(), console.error(), console.table(), console.time(), console.info(), console.assert(). The most interesting thing was calculating the speed of all the different loops.
 
-**THOUGHTS**:
+**THOUGHTS**: Didn't feel particularly motivated today but the challenged kind of forced me to at least start the things I had planned for the day and ended up completing everything.
 
 **Link(s) to work**: []()
 
