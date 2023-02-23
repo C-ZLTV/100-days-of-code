@@ -11,6 +11,13 @@ After all, coding has always been my true but hidden passion. My strong motivati
 Here will be stored my daily log, subdivided in weeks for better readability. At the end of the challenge there should be at least 14 weeks of entries.
 
 - [1ST WEEK](week-1.md)
+  **Progress summary**: String methods, Dates, Window methods, Conditionals, Array methods, Loops;
+
 - [2ND WEEK](week-2.md)
+  **Progress summary**: Array loops, Functions, Objects;
+
 - [3RD WEEK](week-3.md)
+  **Progress summary**: Higher order functions, Sets and maps;
+
 - [4TH WEEK](week-4.md)
+  **Progress summary**: ongoing
