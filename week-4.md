@@ -20,23 +20,19 @@
 
 ### Day 25: February 23, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### CONSOLE OBJECTS
 
 **TODAY'S PROGRESS**: Practiced console object methods. Worked with console.warn(), console.error(), console.table(), console.time(), console.info(), console.assert(). The most interesting thing was calculating the speed of all the different loops.
 
 **THOUGHTS**: Didn't feel particularly motivated today but the challenged kind of forced me to at least start the things I had planned for the day and ended up completing everything.
 
-**Link(s) to work**: []()
-
 ### Day 26: February 24, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### ERROR HANDLING AND CLASSES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Learned about the most common types or errors and how to handle them. Was also able to finally deal with classes and practice them.
 
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: I'm glad I finally saw classes today and got to complete some exercises with them. I was a bit confused at first since I've previously learnt about object constructor in other guides and didn't understand the difference.
 
 ### Day 27: February 25, 2023 (SUNDAY)
 
