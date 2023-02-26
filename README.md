@@ -20,4 +20,6 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
   **Progress summary**: Higher order functions, Sets and maps;
 
 - [4TH WEEK](week-4.md)
-  **Progress summary**: ongoing
+  **Progress summary**: Destructuring, RegEx, Console objects, Error handling, Classes, JSON, Web storages
+
+- [5TH WEEK](week-5.md)

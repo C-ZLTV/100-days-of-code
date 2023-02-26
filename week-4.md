@@ -36,20 +36,14 @@
 
 ### Day 27: February 25, 2023 (SUNDAY)
 
-##### FUNCTIONS
+##### OFF DAY
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Off day
 
-**THOUGHTS**:
+### Day 28: February 26, 2023 (SUNDAY)
 
-**Link(s) to work**: []()
+##### JSON AND WEB STORAGES
 
-### Day 28: February 16, 2023 (SUNDAY)
+**TODAY'S PROGRESS**: Practiced JSON methods and how to deal with JSON in general. Also looked and different ways to storage data on client side and practiced localStorage methods.
 
-##### FUNCTIONS
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
-
-**Link(s) to work**: []()
+**THOUGHTS**: Can't believe week four is already over. I felt a bit off this week since there are still so many things to learn. It kinda makes me feel like I will never be able to know things well enough.
