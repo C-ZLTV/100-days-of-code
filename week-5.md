@@ -1,10 +1,14 @@
 ### Day 29: February 27, 2023 (MONDAY)
 
-##### DESTRUCTURING
+##### ASYNCHRONOUS JAVASCRIPT
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Today I learned about asynchronous JS and how to create asynchronous functions. Looked over callback hell, promises, async and await.
 
-**THOUGHTS**:
+Mostly practiced fetch to get data from an API.
+
+**THOUGHTS**: It's the first time I got to learn and practice asynchronous JS and it was like discovering a whole another side of JS that I was completely unaware about.
+
+The concepts are not difficult to grasp but coding asynchronous stuff seems really tricky. I still need to get the hang of it but I'm feeling good about it since it's just been one day.
 
 ### Day 30: February 28, 2023 (TUESDAY)
 
