@@ -12,11 +12,15 @@ The concepts are not difficult to grasp but coding asynchronous stuff seems real
 
 ### Day 30: February 28, 2023 (TUESDAY)
 
-##### DESTRUCTURING
+##### PROMISES AND ASYNC/AWAIT
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Practice a somewhat more advance use of promises, the highlights are:
 
-**THOUGHTS**:
+- get all cat names from a cat API
+- find the 10 largest countries from a countries API
+- find the total number of official languages from a countries API
+
+**THOUGHTS**: Today has been successful and I'm feeling good. I felt challenged by today's practice and am grateful I managed to complete it. Finally got to work with APIs, something that I had to Google multiple times in the past because I couldn't understand them at all.
 
 ### Day 31: March 1, 2023 (WEDNESDAY)
 
