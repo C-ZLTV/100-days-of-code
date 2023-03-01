@@ -24,11 +24,15 @@ The concepts are not difficult to grasp but coding asynchronous stuff seems real
 
 ### Day 31: March 1, 2023 (WEDNESDAY)
 
-##### DESTRUCTURING
+##### CLOSURES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Practiced closures by rewriting inner function into a a previous complex function.
 
-**THOUGHTS**:
+**THOUGHTS**: Learning about closures cleared up some things for me and help me understand some pieces of code that were a bit unclear before. Really glad I showed up today even with so little sleep in my body.
+
+In tomorrow I will start working with DOM and I'm actually excited about it since I will be able to create my own small projects soon!
+
+Also I miss CSS, kinda like it.
 
 ### Day 32: March 2, 2023 (THURSDAY)
 
