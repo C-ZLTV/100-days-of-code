@@ -26,7 +26,7 @@ The concepts are not difficult to grasp but coding asynchronous stuff seems real
 
 ##### CLOSURES
 
-**TODAY'S PROGRESS**: Practiced closures by rewriting inner function into a a previous complex function.
+**TODAY'S PROGRESS**: Practiced closures by rewriting inner functions into a previous complex function.
 
 **THOUGHTS**: Learning about closures cleared up some things for me and help me understand some pieces of code that were a bit unclear before. Really glad I showed up today even with so little sleep in my body.
 
