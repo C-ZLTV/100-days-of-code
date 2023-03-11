@@ -36,32 +36,32 @@ Also I miss CSS, kinda like it.
 
 ### Day 32: March 2, 2023 (THURSDAY)
 
-##### DESTRUCTURING
+##### CLEAN CODE
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Learned about style guides and which are the most popular ones. Also some general coding conventions.
 
-**THOUGHTS**:
+**THOUGHTS**: For now I will not follow any particular style guide because I'm still learning. Once I will find a job I will have to comply with my team's style guide anyways.
 
 ### Day 33: March 3, 2023 (FRIDAY)
 
-##### DESTRUCTURING
+##### DOM
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Learned about DOM and how to access and manipulate it.
 
-**THOUGHTS**:
+**THOUGHTS**: It's to be finally able to interact with CSS anf HTML from JS
 
 ### Day 34: March 4, 2023 (SATURDAY)
 
-##### DESTRUCTURING
+##### DATA STRUCTURES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Learned about the most common data structures and how thy work.
 
-**THOUGHTS**:
+**THOUGHTS**: Was kinda interested about in the topic for quite some time but I just couldn't get a hang of it. Now that I've managed arrays, array-like structures and object I finally understood what are data structures about.
 
 ### Day 35: March 5, 2023 (SUNDAY)
 
-##### DESTRUCTURING
+##### DATA STRUCTURES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Looked over data structures a bit more just fro fun.
 
-**THOUGHTS**:
+**THOUGHTS**: I'd love to get into the specifics and really master the topic but I'd like to avoid such a time consuming trajectory in my learning process right now.
