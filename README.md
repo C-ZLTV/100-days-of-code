@@ -23,4 +23,4 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
   **Progress summary**: Destructuring, RegEx, Console objects, Error handling, Classes, JSON, Web storages
 
 - [5TH WEEK](week-5.md)
-  **Progress summary**: ongoing
+  **Progress summary**: Asynchronous JavaScript, Promises, Async/Await, Closures, Clean Code, Data Structures
