@@ -24,3 +24,6 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
 
 - [5TH WEEK](week-5.md)
   **Progress summary**: Asynchronous JavaScript, Promises, Async/Await, Closures, Clean Code, Data Structures
+
+- [6TH WEEk] (week-6.md)
+  **Progress summary**: ongoing
