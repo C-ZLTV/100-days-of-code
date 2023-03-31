@@ -1,0 +1,55 @@
+### Day 57: March 27, 2023 (MONDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 58: March 28, 2023 (TUESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 59: March 29, 2023 (WEDNESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 60: March 30, 2023 (THURSDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 61: March 31, 2023 (FRIDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 62: April 1, 2023 (SATURDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 63: April 2, 2023 (SUNDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:

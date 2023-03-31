@@ -1,0 +1,55 @@
+### Day 50: March 20, 2023 (MONDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 51: March 21, 2023 (TUESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 52: March 22, 2023 (WEDNESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 53: March 23, 2023 (THURSDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 54: March 24, 2023 (FRIDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 55: March 25, 2023 (SATURDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 56: March 26, 2023 (SUNDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:

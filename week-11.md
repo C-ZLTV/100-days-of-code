@@ -1,0 +1,55 @@
+### Day 71: April 10, 2023 (MONDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 72: April 11, 2023 (TUESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 73: April 12, 2023 (WEDNESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 74: April 13, 2023 (THURSDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 75: April 14, 2023 (FRIDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 76: April 15, 2023 (SATURDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 77: April 16, 2023 (SUNDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:

@@ -1,0 +1,55 @@
+### Day 92: May 1, 2023 (MONDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 93: May 2, 2023 (TUESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 94: May 3, 2023 (WEDNESDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 95: May 4, 2023 (THURSDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 96: May 5, 2023 (FRIDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 97: May 6, 2023 (SATURDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
+
+### Day 98: May 7, 2023 (SUNDAY)
+
+##### DATA STRUCTURES
+
+**TODAY'S PROGRESS**:
+
+**THOUGHTS**:
