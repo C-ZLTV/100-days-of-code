@@ -10,6 +10,8 @@
 
 **TODAY'S PROGRESS**: Finished up the project and submitted it.
 
+![COUNTER](images/counter.png)
+
 ### Day 59: March 29, 2023 (WEDNESDAY)
 
 ##### DATA VISUALIZATION PROJECT
@@ -26,9 +28,9 @@
 
 ##### DATA VISUALIZATION PROJECT
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Finished up the data visualization application. The other bar chart appears When clicking on languages.
 
-**THOUGHTS**:
+![DATA VISUALIZATION](images/day25.png)
 
 ### Day 62: April 1, 2023 (SATURDAY)
 
