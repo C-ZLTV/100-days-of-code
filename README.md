@@ -26,4 +26,13 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
   **Progress summary**: Asynchronous JavaScript, Promises, Async/Await, Closures, Clean Code, Data Structures
 
 - [6TH WEEK](week-6.md)
-  **Progress summary**: ongoing
+  **Progress summary**: TypeScript, DOM
+
+- [7TH WEEK](week-7.md)
+  **Progress summary**: DOM Manipulation and Projects
+
+- [8TH WEEK](week-8.md)
+  **Progress summary**: Event Listeners and 3 Projects
+
+- [9TH WEEK](week-9.md)
+  **Progress summary**: ongoing...
