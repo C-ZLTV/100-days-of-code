@@ -50,8 +50,4 @@ The date/time and its background color changes every seconds.
 
 ### Day 42: March 12, 2023 (SUNDAY)
 
-##### DATA STRUCTURES
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+##### DOM MANIPULATION
