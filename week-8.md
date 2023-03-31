@@ -1,55 +1,33 @@
 ### Day 50: March 20, 2023 (MONDAY)
 
-##### DATA STRUCTURES
+##### EVENT LISTENERS
 
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+**TODAY'S PROGRESS**: Build an application that generates numbers based on the user input. Numbers are divided in odds and evens and styled accordingly.
 
 ### Day 51: March 21, 2023 (TUESDAY)
 
-##### DATA STRUCTURES
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+##### EVENT LISTENERS
 
 ### Day 52: March 22, 2023 (WEDNESDAY)
 
-##### DATA STRUCTURES
+##### EVENT LISTENERS
 
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+**TODAY'S PROGRESS**: Build an application that generates keyboard code and key using event listeners.
 
 ### Day 53: March 23, 2023 (THURSDAY)
 
-##### DATA STRUCTURES
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+##### EVENT LISTENERS
 
 ### Day 54: March 24, 2023 (FRIDAY)
 
-##### DATA STRUCTURES
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+##### EVENT LISTENERS
 
 ### Day 55: March 25, 2023 (SATURDAY)
 
-##### DATA STRUCTURES
+##### EVENT LISTENERS
 
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+**TODAY'S PROGRESS**: Built an application that calculates an object's weight on different planet based on user's mass input.
 
 ### Day 56: March 26, 2023 (SUNDAY)
 
-##### DATA STRUCTURES
-
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+##### EVENT LISTENERS
