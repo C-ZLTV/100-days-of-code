@@ -4,15 +4,11 @@
 
 **TODAY'S PROGRESS**: Worked on the second project for an online Front-end course. The base is a counter and I added an every-second-changing date, a greeting based on the hour of the day and a mode changer button.
 
-**THOUGHTS**:
-
 ### Day 58: March 28, 2023 (TUESDAY)
 
 ##### ONLINE COURSE PROJECT
 
 **TODAY'S PROGRESS**: Finished up the project and submitted it.
-
-**THOUGHTS**:
 
 ### Day 59: March 29, 2023 (WEDNESDAY)
 
