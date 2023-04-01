@@ -34,11 +34,13 @@
 
 ### Day 62: April 1, 2023 (SATURDAY)
 
-##### DATA STRUCTURES
+##### SEARCH APPLICATION FOR COUNTRIES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Started working on a new project today. It consists on accurately looking for countries based on users' input. Found countries should be output into the HTML document.
 
-**THOUGHTS**:
+The search goes by first letters, containing letters, from A to Z and from Z to A
+
+**THOUGHTS**: Hopefully I will finish the project tomorrow so I can really chill on my vacay!
 
 ### Day 63: April 2, 2023 (SUNDAY)
 
