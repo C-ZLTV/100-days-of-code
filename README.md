@@ -35,4 +35,7 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
   **Progress summary**: Event Listeners and 3 Projects
 
 - [9TH WEEK](week-9.md)
-  **Progress summary**: ongoing...
+  **Progress summary**: Counter project and two countries data visualization projects
+
+-[10TH WEEK](week-10-md)
+**Progress summary**: ongoing...

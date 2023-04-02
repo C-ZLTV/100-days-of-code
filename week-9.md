@@ -46,6 +46,8 @@ The search goes by first letters, containing letters, from A to Z and from Z to 
 
 ##### DATA STRUCTURES
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Finished the application I started yesterday.
 
-**THOUGHTS**:
+**THOUGHTS**: There has been some tricky moments here and there, such as: reverse and undo reverse with a single button and implementing the input event listeners based on button click. Overall is was interesting and now that it's finished I feel fulfilled.
+
+![DATA VISUALIZATION](images/day26.png)
