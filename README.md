@@ -37,5 +37,8 @@ Here will be stored my daily log, subdivided in weeks for better readability. At
 - [9TH WEEK](week-9.md)
   **Progress summary**: Counter project and two countries data visualization projects
 
-- [10TH WEEK](week-10-md)
+- [10TH WEEK](week-10.md)
+  **Progress summary**: JavaScript animations, Players leaderboard application
+
+- [11TH WEEK](week-11.md)
   **Progress summary**: ongoing...

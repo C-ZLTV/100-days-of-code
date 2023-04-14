@@ -1,40 +1,36 @@
 ### Day 71: April 10, 2023 (MONDAY)
 
-##### DATA STRUCTURES
+##### MVC
 
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+**TODAY'S PROGRESS**: Started following a tutorial to build a small application using MVC
 
 ### Day 72: April 11, 2023 (TUESDAY)
 
-##### DATA STRUCTURES
+##### MVC
 
-**TODAY'S PROGRESS**:
-
-**THOUGHTS**:
+**TODAY'S PROGRESS**: Finished the tutorial
 
 ### Day 73: April 12, 2023 (WEDNESDAY)
 
-##### DATA STRUCTURES
+##### CS HISTORY
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: I was really curious to learn more in depth about the journey that brought us where we are now. I decided to learn some CS history from the very beginning, starting from punch cards.
 
-**THOUGHTS**:
+**THOUGHTS**: It's really inspiring and fascinating learning about how people were executing such challenging calculation, algorithms with little to no reference. The best part is Ada Lovelace being the first ever computer programmer.
 
 ### Day 74: April 13, 2023 (THURSDAY)
 
-##### DATA STRUCTURES
+##### CS HISTORY
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: Continued with CS history.
 
-**THOUGHTS**:
+**THOUGHTS**: The human “computers” who worked with the ENIAC! And most of them were women!
 
 ### Day 75: April 14, 2023 (FRIDAY)
 
-##### DATA STRUCTURES
+##### PLAYERS LEADERBOARD PROJECT
 
-**TODAY'S PROGRESS**:
+**TODAY'S PROGRESS**: I finished the application that adds new players and displays them on the page.
 
 **THOUGHTS**:
 
